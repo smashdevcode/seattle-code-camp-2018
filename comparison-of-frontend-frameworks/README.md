@@ -1,11 +1,9 @@
 
-# Seattle Code Camp 2018
-
-## [Comparison of Frontend Frameworks](comparison-of-frontend-frameworks/)
+# A Comparison of Frontend JavaScript Frameworks
 
 ## React vs. Angular vs. Vue
 
-![React vs. Angular vs. Vue](comparison-of-frontend-frameworks/react-angular-vue.png)
+![React vs. Angular vs. Vue](react-angular-vue.png)
 
 Are you interested in learning a frontend JavaScript framework but don't know which one is the best fit for you or your team? Or maybe you're currently using a framework and you're interested in what another framework has to offer?
 
